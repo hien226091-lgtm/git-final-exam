@@ -1,5 +1,3 @@
 - Git giúp tôi quản lý mã nguồn dễ dàng hơn.
 - Việc sử dụng branch giúp làm việc nhóm hiệu quả.
 - Commit giúp tôi lưu lại các thay đổi quan trọng.
-- Tôi học được cách sử dụng git reset, revert, restore.
-- Git giúp tôi kiểm soát lịch sử thay đổi một cách dễ dàng.

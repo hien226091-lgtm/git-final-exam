@@ -1,4 +1,7 @@
 Đây là file được tạo trực tuyến.
 Thực hiện commit trực tiếp trên GitHub.
 Kiểm tra đồng bộ với local sau khi pull.
+Dòng này được thêm từ máy local.
+Hoàn tất bài thực hành Git.
+
 

@@ -1,1 +1,3 @@
 Hello, this is Vo Van Hien
+Xin chào, tôi là Võ Văn Hiền
+Conflict resolved on 15/10/2025

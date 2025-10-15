@@ -13,3 +13,10 @@ Kỹ năng:
 - C#
 - HTML/CSS
 - Git và GitHub
+
+Kế hoạch học tập:
+1. Học Git cơ bản trong tuần 1.
+2. Luyện thực hành mỗi ngày (branch, merge).
+3. Học ADO.NET và thực hành C#.
+4. Hoàn thiện đồ án nhỏ cuối kỳ.
+5. Ôn tập bằng cách làm lab và kiểm tra.

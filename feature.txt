@@ -1,0 +1,7 @@
+# Mô tả tính năng mới
+
+1. Thêm tính năng hiển thị tiến độ học tập hàng tuần.  
+2. Lưu thông tin kế hoạch học vào file JSON.  
+3. Cho phép người dùng đánh dấu bài đã hoàn thành.  
+4. Cập nhật giao diện hiển thị thống kê học tập.  
+5. Tự động gợi ý kế hoạch học cho tuần kế tiếp.  

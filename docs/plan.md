@@ -5,6 +5,7 @@
 **Ngày kết thúc:** 22/10/2025
 
 ## Kế hoạch học tập (10 dòng)
+<<<<<<< Updated upstream
 
 1. Ôn lại kiến thức Git căn bản.
 2. Thực hành branch, merge và resolve conflict.
@@ -25,3 +26,21 @@
 
 14. Viết báo cáo tổng kết cuối kỳ.
 
+=======
+1. Ôn lại kiến thức Git căn bản.  
+2. Thực hành branch, merge và resolve conflict.  
+3. Làm bài thực hành theo nhóm với GitHub.  
+4. Nghiên cứu cách tạo tag và rollback.  
+5. Học về Git Rebase và Reset.  
+6. Tìm hiểu GitHub Flow.  
+7. Làm báo cáo tổng kết.  
+8. Ôn lại các câu lệnh Git quan trọng.  
+9. Đọc tài liệu nâng cao về Git.  
+10. Chuẩn bị cho bài kiểm tra cuối kỳ.  
+11. Ôn tập lại toàn bộ kiến thức Git.
+12. Tìm hiểu về GitHub Actions.
+13. Học cách triển khai CI/CD với GitHub.
+14. Viết báo cáo tổng kết cuối kỳ.
+15. Lên kế hoạch học thêm về Docker.
+16. Chuẩn bị nội dung cho bài thuyết trình cuối kỳ.
+>>>>>>> Stashed changes

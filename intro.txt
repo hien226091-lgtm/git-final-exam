@@ -1,0 +1,15 @@
+Xin chào, tôi là Võ Văn Hiền.
+Tôi là sinh viên Công nghệ thông tin.
+Hiện tại tôi đang học về quản lý mã nguồn bằng Git.
+Tôi thích học lập trình và làm dự án nhóm.
+Tôi chăm thực hành để nâng cao kỹ năng.
+
+Sở thích:
+- Lập trình
+- Chơi game
+- Đọc sách
+
+Kỹ năng:
+- C#
+- HTML/CSS
+- Git và GitHub
